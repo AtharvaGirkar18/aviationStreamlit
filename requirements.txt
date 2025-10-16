@@ -3,4 +3,4 @@ pandas
 sqlalchemy
 snowflake-connector-python
 seaborn
-sqlalchemy
+python-dotenv
