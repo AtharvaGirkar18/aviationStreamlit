@@ -1,0 +1,6 @@
+streamlit
+pandas
+sqlalchemy
+snowflake-connector-python
+seaborn
+sqlalchemy
